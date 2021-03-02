@@ -1,0 +1,9 @@
+.select-dropdown {
+  width: 100%;
+  padding: 20px;
+  font-size: 25px;
+  font-weight: 600;
+  text-emphasis: none;
+  background-color: rgb(184, 184, 184);
+  border: none;
+}
